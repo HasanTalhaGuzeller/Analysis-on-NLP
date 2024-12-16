@@ -9,7 +9,7 @@ The accompanying Jupyter Notebook provides:
 - Visualization of word relationships using **PCA** and **t-SNE**.
 - Arithmetic operations on word vectors (e.g., `king - man + woman = queen`).
 
-You can find the Notebook [here](notebooks/word2vec_analysis.ipynb).
+You can find the Notebook [here](Analysis-on-Word-Vectors-1.ipynb).
 
 ---
 
